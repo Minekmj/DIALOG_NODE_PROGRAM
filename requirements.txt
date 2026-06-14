@@ -1,0 +1,6 @@
+dearpygui
+json
+copy
+threading
+tkinter
+queue
