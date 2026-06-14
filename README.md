@@ -1,5 +1,7 @@
 # Dialog_Node_Program
 
+DearPyGui를 사용한 대화 노드 프로그램
+
 ## .json 출력
 
 ```json
