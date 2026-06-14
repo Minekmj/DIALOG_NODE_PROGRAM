@@ -43,7 +43,7 @@
 파일 경로에서
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 그 다음
